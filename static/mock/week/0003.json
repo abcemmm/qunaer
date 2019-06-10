@@ -1,0 +1,42 @@
+{
+   "data": {
+      "weekInfo": [
+         {
+            "desc": "奇幻海洋之旅，在帝都感受大海的魅力",
+            "title": "北京海洋馆",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1602/68/68aa05adb5315f9990.water.jpg_640x276_03477cf6.jpg",
+            "price": 100
+         },
+         {
+            "desc": "40个国家的109处著名古迹名胜微缩景点",
+            "title": "世界公园",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1901/ea/ea459039354370daa3.img.jpg_640x276_41c360d3.jpg",
+            "price": 45
+         },
+         {
+            "desc": "百余种动物，让你离自然更近",
+            "title": "北京动物园",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/201308/08/41150dacc0e3a0c8c8d65eac.jpg_640x276_b2e54fbe.jpg",
+            "price": 70
+         },
+         {
+            "desc": "登高望远，俯瞰北京城",
+            "title": "中央电视塔",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1602/f9/f9095e245afd18fb90.water.jpg_640x276_99f0a1fb.jpg",
+            "price": 100
+         },
+         {
+            "desc": "我爱北京天安门，天安门上太阳升",
+            "title": "天安门广场",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1501/f4/f467729126949c3a.water.jpg_640x276_267de9bb.jpg",
+            "price": 45
+         },
+         {
+            "desc": "温泉与水世界，沐浴与戏水的有趣结合",
+            "title": "南宫温泉水世界",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1503/dc/dc651cd2e01fb900.img.jpg_640x276_d86a7f11.jpg",
+            "price": 70
+         }
+      ]
+   }
+}

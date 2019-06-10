@@ -1,0 +1,42 @@
+{
+   "data": {
+      "weekInfo": [
+         {
+            "desc": "世界上最大的城市中心广场，北京的心脏",
+            "title": "天安门广场",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1501/f4/f467729126949c3a.water.jpg_640x276_267de9bb.jpg",
+            "price": 70
+         },
+         {
+            "desc": "探寻古代皇帝祭天仪式的奥秘”",
+            "title": "天坛公园",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1602/92/920e47352552c1c990.water.jpg_640x276_078119ce.jpg",
+            "price": 0.8
+         },
+         {
+            "desc": "让我们荡起双桨，小船儿推开波浪",
+            "title": "北海公园",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1507/44/2fef900d9523f298e4c0ee5bb34be06e.water.jpg_640x276_00c813d1.jpg",
+            "price": 138
+         },
+         {
+            "desc": "晨钟暮鼓，钟声悠扬，鼓声清脆",
+            "title": "钟鼓楼",
+            "imgUrl": "http://img1.qunarzz.com/wugc/p228/201306/06/a76e59531c0e556193835fbb.jpg_640x276_821f01b0.jpg",
+            "price": 70
+         },
+         {
+            "desc": "世界上规模最大的皇家宫殿建筑群",
+            "title": "故宫",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_640x276_a9486045.jpg",
+            "price": 0.8
+         },
+         {
+            "desc": "保存得最完整的皇家行宫御苑",
+            "title": "颐和园",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1505/d2/d274c92de14c93da.water.jpg_640x276_ab6b8603.jpg",
+            "price": 138
+         }
+      ]
+   }
+}

@@ -1,0 +1,54 @@
+{
+   "data": {
+      "weekInfo": [
+         {
+            "desc": "3月22日—5月4日桃花节",
+            "title": "北京植物园",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1602/d7/d713b3d52cd9c6ad90.water.jpg_640x276_1c9f4255.jpg",
+            "price": 10
+         },
+         {
+            "desc": "4月下旬—5月底牡丹花卉展览。",
+            "title": "景山公园",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1602/45/459bd3d00321a44790.water.jpg_640x276_7143792f.jpg",
+            "price": 0.8
+         },
+         {
+            "desc": "3月5日至5月31日春季赏花踏青游园会",
+            "title": "世界花卉大观园",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1604/1e/1e75f8e1af9fe81f90.img.jpg_640x276_20de8812.jpg",
+            "price": 138
+         },
+         {
+            "desc": "到此散心、品尝小吃，感受古朴气息",
+            "title": "靖港古镇",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1412/68/42da26a54c27a3c237b4d10a61583c36.water.jpg_350x240_7f99e17b.jpg",
+            "price": 50
+         },
+         {
+            "desc": "3月—5月山花节",
+            "title": "百望山森林公园",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1506/9b/9be63c423354f373.water.jpg_640x276_b621619b.jpg",
+            "price": 79
+         },
+         {
+            "desc": "4月中旬—5月上旬山花节",
+            "title": "香山公园",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/201403/07/a3231208ca4095bef77068c202d95bd2.jpg_640x276_23b1fc8d.jpg",
+            "price": 138
+         },
+         {
+            "desc": "月月有花开，处处闻花香",
+            "title": "北京大观园",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1505/8d/8d1f6d86b2c5926e.water.jpg_640x276_80fb9da2.jpg",
+            "price": 138
+         },
+         {
+            "desc": "3月底—6月杏花节",
+            "title": "凤凰岭",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1708/24/24073ec8c6dd1afaa3.img.jpg_640x276_967c76eb.jpg",
+            "price": 138
+         }
+      ]
+   }
+}

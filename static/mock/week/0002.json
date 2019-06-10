@@ -1,0 +1,66 @@
+{
+   "data": {
+      "weekInfo": [
+         {
+            "desc": "滑雪场中还有绿色生态园哦",
+            "title": "莲花山滑雪场",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1501/c9/c936199619206dd1.water.jpg_640x276_6cff1f89.jpg",
+            "price": 80
+         },
+         {
+            "desc": "北京高端温泉，近年价格越来越亲民",
+            "title": "春晖园温泉度假村",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1411/43/dea8b51719a4a69b68777baa68c146e4.water.jpg_640x276_775c187f.jpg",
+            "price": 430
+         },
+         {
+            "desc": "雪质地松软，感如毡毯",
+            "title": "万科石京龙滑雪场",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/b2/b29346404fa3cebb90.water.jpg_640x276_0f0644db.jpg",
+            "price": 49.5
+         },
+         {
+            "desc": "设施齐全的一座滑雪场",
+            "title": "云佛滑雪场",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1711/f7/f7bf42e9910aa1a3.img.jpg_640x276_8fe2222a.jpg",
+            "price": 80
+         },
+         {
+            "desc": "北京专业级滑雪圣地",
+            "title": "南山滑雪场",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1511/d2/d2aec2dfc5aa771290.water.jpg_640x276_83c7fab0.jpg",
+            "price": 67
+         },
+         {
+            "desc": "踏着魔鬼步伐,万龙滑雪场去野",
+            "title": "万龙滑雪场",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1511/bb/bb02aefbf00b50e90.water.jpg_640x276_075f822f.jpg",
+            "price": 49.5
+         },
+         {
+            "desc": "北京郊区的一座大型自然生态动物园",
+            "title": "北京野生动物园",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1507/36/ce3d2d6c9ab44d67ae68d940b8781829.water.jpg_640x276_84381762.jpg",
+            "price": 49.5
+         },
+         {
+            "desc": "古典园林别墅可户户通温泉",
+            "title": "九华山庄",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/c3/c3e5a432d7798f5890.water.jpg_640x276_05e35abc.jpg",
+            "price": 49.5
+         },
+         {
+            "desc": "踏着魔鬼步伐,万龙滑雪场去野",
+            "title": "万龙滑雪场",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/201403/10/291fbdb8f5c0055c64bed67d9fe4bb76.jpg_640x276_678f7001.jpg",
+            "price": 49.5
+         },
+         {
+            "desc": "葡缇泉度假村欢迎您",
+            "title": "怀来葡缇泉度假村（原帝曼温泉）",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1511/bb/bb02aefbf00b50e90.water.jpg_640x276_075f822f.jpg",
+            "price": 49.5
+         }
+      ]
+   }
+}
