@@ -20,6 +20,9 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
+
+新增内容
+
 css预处理器 sass less  stylus
 stylus 安装
     npm install stylus --save   npm install stylus-loader --save
@@ -50,7 +53,7 @@ home页面组件：
                     创建cityList组件
                         安装better-scroll组件  npm install better-scroll --save
                             better-scroll 默认禁止click事件 配置click为true
-                            原理：如果内容高度大于父级高度，实现滚动    
+                            原理：如果内容高度大于父级高度，实现滚动
                                         使用   import BScroll from 'better-scroll'
                                                 mounted(){
                                                     console.log(this.$refs.wraper)
@@ -61,7 +64,7 @@ home页面组件：
                         所有城市
                             通过props将cities数据传递给citylist组件 v-for 渲染
                     创建letter组件 字母表
-                        props接受city组件传值cities,v-for渲染cities中key值    
+                        props接受city组件传值cities,v-for渲染cities中key值
                         使用vuex实现点击跳转
                             创建store ==> index.js 存放vuex
                             安装 npm install vuex --save
@@ -80,7 +83,7 @@ home页面组件：
             使用过滤器，用每一项的score数值/总数5*100+'%' ,计算出百分比，赋值width,绑定style
     weekend组件
         创建weekend页面，定义name:HomeWeekend,home页面import引入,components定义，渲染
-    static => mock => index.json 
+    static => mock => index.json
         用来放置模拟数据
     src => api => index.js
         用来管理后台请求的数据
@@ -115,7 +118,7 @@ week页面组件
     创建week页面，router=>index.js,配置路由信息
     home下面的weekend组件, router-link,绑定to属性，传入每一项的id
     src=>api页面，请求week页面数据，week页面获取数据，并绑定
-    
+
     header组件
         week页面import引入，components定义组件，template渲染
     list组件
@@ -123,4 +126,4 @@ week页面组件
         week父组件传值，list子组件props接收数据，v-for循环，渲染数据
         页面滚动，引入better-scroll插件
             插件使用条件，外部盒子固定高，内部盒子高于父级盒子高度，并且父集只有一个子集
-        
+
