@@ -1,4 +1,5 @@
 <template>
+<!-- 测试git vscode -->
   <div class="home">
     <home-header></home-header>
     <div class="container" ref='wraper'>
